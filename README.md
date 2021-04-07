@@ -2,4 +2,4 @@
 My Personal Portfolio
 
 You can check it here:
-https://thraz3.github.io/personal_portfolio/.
+https://seraze3x.github.io/personal-porfolio/.
